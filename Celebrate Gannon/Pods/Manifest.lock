@@ -1,0 +1,22 @@
+PODS:
+  - DownPicker (0.1.34)
+  - HexColors (2.2.1)
+  - IQKeyboardManager (3.3.4)
+  - MBProgressHUD (0.9.1)
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+
+DEPENDENCIES:
+  - DownPicker
+  - IQKeyboardManager
+  - MBProgressHUD (~> 0.9.1)
+  - TSMessages
+
+SPEC CHECKSUMS:
+  DownPicker: c00ea63f08ae82116cc93d0eba74e86bf3d4c68e
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+
+COCOAPODS: 0.39.0
